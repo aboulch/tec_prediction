@@ -1,1 +1,1 @@
-# tec_prediction
+# Ionospheric activity prediction using convolutional recurrent neural networks
