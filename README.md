@@ -41,15 +41,11 @@ In order to use it:
 * ```seqStart```: length of the input sequence
 * ```batchSize```: batch size
 * ```cuda```: use cuda backend
-* ```visdom```: use visdom for visualization
 * ```test```: use network in test mode (training otherwise)
-* ```skipPrediction```: do not predict (only compute scores)
 * ```model```: which model to use (simple, unet, dilation121)
 * ```diff```: use residual prediction
-* ```extend```: use an extension of the image (to be DEPRECATED)
 * ```target```: directory to save the results
 * ```source```: directory containing the data
-* ```recurrentUnit```: which recurrent unit to use (LSTM, GRU)
 
 ### Train a model
 
