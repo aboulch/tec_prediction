@@ -8,6 +8,16 @@ When using this code, cite the related paper:
 
 **Ionospheric activity prediction using convolutional recurrent neural networks** by *Boulch Alexandre and Cherrier Noelie and Castaings Thibaut*
 
+```
+@article{boulch2018ionosphere,
+  title={Ionospheric activity prediction using convolutional recurrent neural networks},
+  author={Boulch, Alexandre and Cherrier Noelie and Castaings Thibaut},
+  journal={arXiv preprint arXiv:1810.13273},
+  year={2018},
+  url={https://arxiv.org/abs/1810.13273}
+}
+```
+
 Please note that, the actual citation refers to a pre-print. The submission is under review at IEEE Transaction on Big Data. If the paper is accepted, please update your citation.
 
 
